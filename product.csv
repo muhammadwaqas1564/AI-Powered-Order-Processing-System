@@ -1,0 +1,510 @@
+name,price,stock
+laptop,999.99,50
+phone,599.99,100
+tablet,299.99,75
+headphones,99.99,200
+iphone ,799.39,30
+iphone ,899.99,25
+iphone ,999.99,20
+macbook pro,1299.99,15
+macbook air,999.99,25
+speaker,678.46,161
+TV,536.55,283
+power bank,1473.34,228
+headphones,89.16,325
+iphone,1370.23,278
+iphone,539.12,435
+monitor,322.17,492
+headphones,718.72,390
+earbuds,911.58,115
+smart light,605.93,96
+power bank,337.99,412
+drone,332.74,424
+hard drive,329.09,199
+charger,1184.69,87
+printer,415.37,411
+smart glasses,304.64,212
+TV,719.25,406
+smartwatch,829.46,135
+monitor,1330.35,123
+hard drive,87.69,104
+keyboard,356.38,72
+projector,1206.42,49
+keyboard,369.97,20
+gaming console,748.83,143
+keyboard,1192.13,246
+iphone,398.93,23
+gaming console,189.43,226
+tablet,492.12,56
+printer,287.26,352
+speaker,651.14,328
+keyboard,1112.5,97
+speaker,287.51,244
+VR headset,791.71,346
+VR headset,239.53,140
+earbuds,191.58,473
+headphones,431.56,179
+graphics card,604.0,132
+gaming console,1290.47,469
+USB stick,1060.89,364
+smart light,752.42,313
+gaming console,456.81,149
+smart glasses,1356.96,70
+power bank,1308.12,336
+hard drive,1370.83,311
+fitness tracker,656.56,27
+hard drive,1208.65,126
+speaker,167.05,371
+fitness tracker,1018.34,469
+hard drive,590.07,150
+power bank,818.79,88
+hard drive,248.99,150
+smartwatch,980.87,398
+camera,521.04,76
+headphones,325.91,107
+drone,959.55,353
+graphics card,1332.06,266
+smart glasses,307.07,57
+iphone,1222.53,488
+speaker,853.2,203
+speaker,1388.84,284
+smart glasses,1341.23,24
+iphone,919.06,16
+mouse,1064.77,98
+iphone,602.79,338
+fitness tracker,400.17,202
+camera,817.63,360
+TV,66.93,392
+charger,325.65,153
+smartwatch,941.71,130
+earbuds,881.74,329
+monitor,807.95,177
+camera,385.83,16
+VR headset,1398.53,490
+speaker,199.51,340
+TV,352.07,465
+charger,90.27,260
+TV,933.75,115
+fitness tracker,1056.02,230
+speaker,546.53,446
+keyboard,565.87,438
+graphics card,484.17,172
+smart glasses,1080.12,84
+charger,579.87,177
+tablet,617.99,350
+power bank,1282.18,293
+charger,1117.09,106
+speaker,736.42,253
+hard drive,88.68,10
+monitor,1006.27,181
+smart light,771.64,373
+smartwatch,541.94,355
+headphones,540.29,300
+hard drive,729.69,238
+drone,1447.1,316
+power bank,681.15,442
+speaker,1059.78,249
+projector,1094.27,43
+router,701.74,440
+laptop,470.82,366
+smart light,69.89,439
+iphone,1313.1,332
+iphone,520.66,313
+graphics card,316.86,75
+tablet,126.99,392
+speaker,1022.99,346
+mouse,1235.38,11
+router,1206.68,16
+mouse,470.21,345
+phone,746.28,466
+phone,863.86,124
+router,1025.66,397
+keyboard,543.0,92
+laptop,983.51,400
+power bank,273.6,86
+smart glasses,438.35,413
+drone,284.49,117
+VR headset,1208.44,168
+headphones,441.66,241
+headphones,139.21,164
+monitor,223.79,310
+printer,295.96,49
+keyboard,759.86,88
+camera,861.12,73
+laptop,648.1,303
+router,443.68,109
+gaming console,668.18,423
+iphone,1061.78,234
+power bank,527.84,59
+projector,894.77,418
+phone,605.09,233
+phone,845.51,465
+printer,1039.91,133
+iphone,202.84,150
+charger,650.37,309
+gaming console,1488.37,349
+headphones,1191.8,176
+laptop,482.09,207
+smart glasses,594.22,321
+camera,1409.94,38
+TV,645.76,445
+mouse,409.04,450
+smart light,1172.92,176
+USB stick,151.85,255
+printer,1446.52,154
+router,379.2,361
+fitness tracker,655.31,377
+printer,987.07,473
+mouse,892.92,158
+fitness tracker,1444.05,454
+iphone,1058.19,23
+smart light,226.64,192
+headphones,1109.11,116
+headphones,371.0,24
+fitness tracker,1096.33,373
+projector,277.24,369
+gaming console,407.85,426
+iphone,1001.66,47
+phone,473.93,492
+earbuds,826.77,283
+camera,125.59,498
+smartwatch,1360.52,100
+speaker,99.29,127
+speaker,974.38,384
+gaming console,352.84,188
+earbuds,1280.82,281
+power bank,1082.61,25
+monitor,638.5,463
+headphones,1019.33,484
+fitness tracker,576.85,476
+camera,344.35,206
+headphones,211.91,300
+USB stick,452.22,395
+router,398.59,449
+projector,1301.03,337
+router,467.17,20
+TV,1399.82,484
+smartwatch,571.59,187
+keyboard,467.47,413
+camera,341.22,423
+drone,986.48,94
+TV,1159.42,267
+iphone,884.51,205
+monitor,1013.72,161
+fitness tracker,1440.87,264
+speaker,1358.05,249
+mouse,118.77,132
+headphones,757.55,259
+headphones,122.95,477
+charger,1047.11,298
+charger,961.21,354
+gaming console,1077.56,246
+tablet,941.98,384
+hard drive,1419.03,240
+USB stick,665.47,392
+smart light,1168.42,193
+iphone,677.55,295
+speaker,592.01,448
+VR headset,360.52,413
+monitor,146.93,167
+gaming console,851.45,105
+smart glasses,780.34,325
+monitor,565.5,337
+fitness tracker,60.91,313
+router,1330.31,464
+keyboard,1050.54,378
+headphones,1148.62,356
+speaker,191.13,158
+headphones,658.68,437
+keyboard,875.16,192
+fitness tracker,1253.64,269
+speaker,1249.41,121
+earbuds,879.74,291
+VR headset,154.34,389
+smartwatch,593.25,294
+camera,924.83,423
+charger,766.98,363
+fitness tracker,61.72,39
+projector,826.41,283
+fitness tracker,1085.73,101
+fitness tracker,623.57,178
+mouse,781.49,495
+phone,831.65,15
+power bank,273.83,425
+hard drive,1183.88,34
+tablet,284.78,462
+keyboard,185.17,424
+power bank,73.73,56
+monitor,1134.26,125
+iphone,171.15,274
+keyboard,774.33,294
+TV,285.98,114
+earbuds,791.67,227
+smart glasses,400.36,343
+smartwatch,516.66,459
+speaker,826.67,216
+VR headset,843.97,165
+smartwatch,792.0,366
+smartwatch,1223.93,248
+mouse,1499.21,165
+iphone,148.23,247
+graphics card,719.92,300
+smart light,547.19,106
+iphone,998.59,340
+headphones,270.44,463
+smart light,924.49,297
+phone,648.61,237
+iphone,1373.4,71
+tablet,1256.21,466
+phone,659.46,71
+hard drive,1140.44,72
+smart glasses,1169.43,266
+monitor,1113.52,214
+drone,1041.88,404
+hard drive,1040.99,219
+printer,868.45,35
+smart glasses,1124.72,50
+router,975.67,92
+tablet,685.01,71
+headphones,639.16,345
+charger,217.8,30
+router,118.29,128
+gaming console,978.73,417
+hard drive,1386.92,315
+camera,292.45,376
+drone,242.45,309
+charger,644.11,417
+phone,1421.28,440
+tablet,1133.56,224
+router,1405.73,113
+projector,1324.19,193
+smart light,781.98,88
+fitness tracker,817.76,230
+smart glasses,916.0,363
+iphone,883.58,432
+drone,703.75,383
+headphones,1284.7,272
+VR headset,556.99,101
+drone,1115.82,413
+camera,1411.83,478
+headphones,842.37,404
+earbuds,668.76,189
+smart light,442.85,252
+earbuds,681.18,281
+projector,349.3,254
+VR headset,1249.75,68
+headphones,580.2,150
+headphones,373.96,335
+graphics card,775.58,379
+iphone,570.88,28
+charger,1282.04,325
+charger,1036.79,137
+projector,65.93,321
+laptop,662.21,287
+TV,398.57,137
+USB stick,1205.18,416
+VR headset,1030.37,286
+smart glasses,563.77,321
+VR headset,866.71,434
+keyboard,64.71,164
+speaker,467.66,256
+speaker,481.68,377
+iphone,1111.74,450
+hard drive,203.65,261
+headphones,931.1,42
+power bank,77.79,378
+printer,448.99,126
+keyboard,1328.67,381
+gaming console,692.3,185
+headphones,935.66,304
+laptop,570.07,447
+USB stick,606.14,167
+hard drive,153.29,374
+USB stick,369.64,211
+VR headset,1190.97,76
+USB stick,574.58,276
+hard drive,447.86,114
+smart light,540.86,193
+camera,1383.06,368
+monitor,539.98,58
+router,596.13,318
+laptop,1272.79,248
+printer,329.01,45
+router,326.42,284
+earbuds,1090.12,239
+smart glasses,1253.91,246
+iphone,305.6,154
+phone,714.83,328
+hard drive,1281.39,447
+TV,1358.13,288
+earbuds,1198.16,50
+smart light,1381.96,197
+earbuds,306.16,82
+earbuds,779.86,242
+smartwatch,1275.73,390
+phone,97.66,314
+earbuds,608.37,21
+speaker,983.41,133
+smartwatch,1144.37,238
+printer,1166.58,495
+phone,1192.64,355
+VR headset,1334.88,381
+earbuds,1093.5,391
+VR headset,816.05,465
+router,1134.5,188
+power bank,506.37,286
+smart glasses,962.4,365
+hard drive,298.82,120
+headphones,438.84,455
+smart light,1439.71,142
+graphics card,324.84,317
+hard drive,860.3,117
+smart light,1437.68,118
+charger,1022.39,115
+hard drive,610.35,21
+iphone,1203.36,438
+camera,719.91,162
+projector,1078.23,214
+hard drive,450.98,362
+phone,910.06,243
+mouse,343.57,132
+mouse,1282.36,337
+TV,552.74,417
+projector,334.6,191
+graphics card,467.9,467
+printer,838.65,227
+monitor,983.22,407
+VR headset,1217.63,258
+camera,1389.07,492
+power bank,65.11,453
+TV,1413.95,471
+smart glasses,318.43,472
+gaming console,682.87,268
+keyboard,583.03,76
+speaker,1039.45,331
+smart light,745.51,426
+charger,767.32,413
+camera,1430.63,65
+smart glasses,702.68,284
+smart glasses,1292.61,254
+smart light,1103.78,228
+smart glasses,223.65,358
+VR headset,198.93,164
+USB stick,704.08,447
+smart light,285.15,346
+smart glasses,565.55,99
+monitor,158.28,70
+charger,998.15,493
+power bank,387.03,91
+hard drive,849.42,50
+router,993.93,430
+drone,483.77,494
+earbuds,396.53,393
+fitness tracker,1398.66,419
+earbuds,727.72,124
+gaming console,845.16,55
+tablet,1357.21,71
+charger,378.15,183
+projector,1377.93,123
+headphones,421.02,109
+tablet,378.11,49
+camera,1080.15,308
+earbuds,1331.42,113
+headphones,1200.78,487
+projector,1428.6,213
+USB stick,1286.3,256
+gaming console,1219.39,255
+hard drive,538.89,498
+graphics card,58.44,151
+keyboard,210.79,257
+hard drive,1261.94,117
+TV,1101.94,226
+VR headset,291.92,115
+drone,278.7,244
+VR headset,530.99,166
+smart glasses,1477.43,491
+camera,944.92,15
+mouse,654.24,464
+VR headset,1480.44,143
+power bank,1319.55,227
+keyboard,633.66,38
+speaker,492.52,321
+gaming console,293.03,50
+gaming console,945.57,400
+drone,870.18,111
+VR headset,1078.5,192
+monitor,351.24,438
+monitor,771.74,439
+smartwatch,977.1,225
+camera,627.06,371
+speaker,969.66,273
+VR headset,1411.9,72
+mouse,984.46,346
+gaming console,468.24,50
+power bank,316.13,259
+phone,246.57,14
+drone,718.79,154
+speaker,772.55,39
+USB stick,1014.48,218
+tablet,53.44,174
+graphics card,389.03,256
+hard drive,1190.24,292
+iphone,870.67,141
+keyboard,1278.54,93
+smart glasses,551.04,302
+TV,644.03,330
+iphone,1238.3,450
+monitor,1097.54,80
+drone,628.73,368
+smart glasses,641.51,458
+fitness tracker,304.42,249
+printer,845.54,149
+camera,765.14,273
+hard drive,1139.77,159
+monitor,654.01,269
+drone,1291.49,183
+printer,431.12,199
+earbuds,540.24,162
+drone,763.29,46
+charger,431.49,331
+tablet,291.59,458
+smart glasses,1109.77,158
+drone,1209.12,29
+gaming console,1474.8,470
+USB stick,478.88,127
+graphics card,753.92,75
+keyboard,1320.4,277
+charger,498.33,444
+drone,1040.38,41
+camera,1168.38,418
+power bank,848.62,160
+charger,743.99,488
+smart light,1498.72,95
+smart glasses,875.67,368
+phone,1020.42,84
+smart glasses,269.05,276
+laptop,471.61,185
+laptop,695.22,32
+laptop,1221.58,24
+smart glasses,1060.7,227
+VR headset,312.81,352
+hard drive,845.33,206
+iphone,290.26,367
+smart glasses,969.59,426
+smart light,727.05,322
+power bank,399.35,294
+mouse,252.65,409
+TV,1489.37,287
+headphones,131.72,161
+mouse,1020.3,269
+projector,530.84,140
+fitness tracker,565.44,163
+drone,1120.67,101
+charger,1490.16,318
+headphones,545.03,493
+phone,179.58,14
+hard drive,132.74,484
+earbuds,785.45,194
+fitness tracker,1084.95,459
+router,360.54,251
+projector,943.79,338
